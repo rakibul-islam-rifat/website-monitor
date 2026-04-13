@@ -1,0 +1,10 @@
+{
+  "https://books.toscrape.com": {
+    "hash": "a6da38c075051cba97a36f0be10cb823",
+    "timestamp": "2026-04-14 00:34:20"
+  },
+  "https://quotes.toscrape.com": {
+    "hash": "c00f25dfc899e3f0e69d23f9c9f30fd3",
+    "timestamp": "2026-04-14 00:34:25"
+  }
+}
