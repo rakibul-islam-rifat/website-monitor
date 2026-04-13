@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+#environment files
+.env
+
+#log files
+*.log
+
+#json files
+*.json
